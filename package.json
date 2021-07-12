@@ -194,17 +194,17 @@
     "format-check": "prettier --check './**/*.{js,jsx,ts,tsx,json,css,scss,md,yml,yaml,html}'"
   },
   "devDependencies": {
-    "@types/mocha": "8.2.2",
-    "@types/node": "10.17.56",
-    "husky": "6.0.0",
-    "lint-staged": "10.5.4",
-    "prettier": "2.2.1",
-    "mocha": "8.3.2",
-    "typescript": "4.2.4",
-    "ts-loader": "8.1.0",
+    "@types/mocha": "8.2.3",
+    "@types/node": "14.17.5",
+    "husky": "7.0.1",
+    "lint-staged": "11.0.0",
+    "prettier": "2.3.2",
+    "mocha": "9.0.2",
+    "typescript": "4.3.5",
+    "ts-loader": "9.2.3",
     "vscode": "1.1.37",
-    "webpack": "5.31.0",
-    "webpack-cli": "4.6.0"
+    "webpack": "5.44.0",
+    "webpack-cli": "4.7.2"
   },
   "dependencies": {
     "editorconfig": "^0.15.3",
